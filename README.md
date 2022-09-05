@@ -1,1 +1,1 @@
-![QuickReference](../QuickReference/assets/QuickReference.png)
+![QuickReference](src/assets/QuickReference.png)
